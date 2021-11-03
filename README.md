@@ -16,6 +16,7 @@ Drop the manifest.json and icons directory in your root directory and edit to yo
 Then reference or include it in your static files or (.html or .php) file in the head section
 
 like below:
+
     <head>
             ------- some included files: meta, link, script, tags -------
         <link rel="manifest" href="manifest.json" />
