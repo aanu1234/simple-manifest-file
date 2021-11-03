@@ -5,8 +5,11 @@ Manifest file is a JSON file that controls your app info, the splash screen and 
 # optional
 
 start_url: can be landing_page_url or login_url
+
 scope: can be domain_url or directory your app is hosted
+
 display: can be browser, minimal ui, full screen or standalone
+
 orientation: can be portrait, landscape or any,
 
 # how to use
